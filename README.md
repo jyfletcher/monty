@@ -4,7 +4,7 @@
 
 ## Status
 
-Note: This is a collection of code I have had lying around and used on and off for years. This repo will slowly grow as I clean up various pieces of it and 
+Note: This is a collection of code I have had lying around and used on and off for years. This repo will slowly grow as I clean up various pieces of it and publish.
 
 ## About
 
